@@ -1,3 +1,11 @@
+#################################### Recognizer #####################################
+# Autora: Fernanda Amaral Melo, Luiz Fernando Neves de Araújo   				
+# Contato: fernanda.amaral.melo@gmail.com										
+#																				
+# Script detecção e classificação de manchas				
+#																				
+#####################################################################################
+
 from matplotlib import pyplot as plt
 from numpy import genfromtxt
 import numpy as np
